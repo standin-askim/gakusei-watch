@@ -6,5 +6,6 @@ Switch between hiragana and katakana by tapping the top left button. The change 
 
 Send questions and feedback to gakusei-watch-support@standin.se
 
-* [Privacy]: privacy_policy.html [Privacy]
+* [Privacy]: privacy_policy.html 
+[Privacy]
 
